@@ -34,7 +34,7 @@
   "devDependencies": {
     "electron": "^43.2.0",
     "electron-builder": "^26.15.3",
-    "esbuild": "^0.25.12"
+    "esbuild": "^0.28.2"
   },
   "overrides": {
     "brace-expansion": "5.0.9",
