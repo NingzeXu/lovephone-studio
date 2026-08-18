@@ -32,7 +32,7 @@
     "NeteaseCloudMusicApi": "4.32.0"
   },
   "devDependencies": {
-    "electron": "^43.2.0",
+    "electron": "^43.4.0",
     "electron-builder": "^26.15.3",
     "esbuild": "^0.25.12"
   },
