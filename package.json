@@ -27,7 +27,7 @@
     "desktop:installer": "electron-builder --win nsis --prepackaged release/win-unpacked"
   },
   "dependencies": {
-    "fflate": "^0.8.2",
+    "fflate": "^0.8.3",
     "gridstack": "^13.0.0",
     "NeteaseCloudMusicApi": "4.32.0"
   },
